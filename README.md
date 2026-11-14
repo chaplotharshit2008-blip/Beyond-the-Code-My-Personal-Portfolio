@@ -1,11 +1,35 @@
-<div align="center">
+# Harshit Chaplot — Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal portfolio website for **Harshit Chaplot**, CSE student at RTU Kota focused on AI automation and practical AI workflows.
 
-  <h1>Built with AI Studio</h2>
+## Run Locally
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Open `http://localhost:3000` in your browser.
 
-</div>
+## Production Build
+
+```bash
+npm run build
+npm run preview
+```
+
+## Deploy to Vercel
+
+1. Push this repository to GitHub, GitLab, or Bitbucket (or use the Vercel CLI).
+2. Import the project in [Vercel](https://vercel.com/new):
+   - **Framework Preset**: `Vite`
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `dist`
+3. Deploy — static assets in `public/` (including `public/Harshit-Chaplot-CV.pdf` and `public/assets/aistudio/*`) are served directly at `/`.
+
+Or deploy directly with the Vercel CLI:
+
+```bash
+npm i -g vercel
+vercel --prod
+```

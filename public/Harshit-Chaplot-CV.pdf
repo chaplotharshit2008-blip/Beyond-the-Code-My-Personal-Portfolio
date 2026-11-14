@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 7086 >>
+stream
+1.000 0.478 0.000 rg 0 834 595.28 8 re f
+BT /F2 22 Tf 0.060 0.060 0.070 rg 1 0 0 1 48 795 Tm (HARSHIT CHAPLOT) Tj ET
+BT /F2 11 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 777 Tm (AI Automation Enthusiast  |  B.Tech CSE Student \(RTU Kota\)) Tj ET
+BT /F1 9.2 Tf 0.350 0.350 0.380 rg 1 0 0 1 48 762 Tm (Kota, Rajasthan, India   |   LinkedIn: linkedin.com/in/harshit-chaplot-44479442b   |   Open to Remote Internships) Tj ET
+0.8 w 0.850 0.850 0.880 RG 48 750 m 547 750 l S
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 730 Tm (SUMMARY) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 725 m 547 725 l S
+BT /F1 9.5 Tf 0.150 0.150 0.170 rg 1 0 0 1 48 712 Tm (First-year Computer Science Engineering student at Rajasthan Technical University \(RTU\), Kota. Focused on building) Tj ET
+BT /F1 9.5 Tf 0.150 0.150 0.170 rg 1 0 0 1 48 699 Tm (practical AI automations by connecting Claude, Gmail, Calendar, and Telegram into workflows that run on their own.) Tj ET
+BT /F1 9.5 Tf 0.150 0.150 0.170 rg 1 0 0 1 48 686 Tm (Currently learning n8n and Python, and seeking a remote AI automation internship to contribute on real projects.) Tj ET
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 666 Tm (EDUCATION) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 661 m 547 661 l S
+BT /F2 10.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 648 Tm (Rajasthan Technical University \(RTU\), Kota) Tj ET
+BT /F1 9.5 Tf 0.400 0.400 0.450 rg 1 0 0 1 428 648 Tm (Aug 2026 - 2029 \(Expected\)) Tj ET
+BT /F1 9.5 Tf 0.250 0.250 0.280 rg 1 0 0 1 48 635 Tm (Bachelor of Technology \(B.Tech\), Computer Science Engineering - Currently in 1st Year) Tj ET
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 615 Tm (FEATURED PROJECT) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 610 m 547 610 l S
+BT /F2 10.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 597 Tm (Business Saathi  \(Smart India Hackathon 2026 - Team SPARK - 6 members\)) Tj ET
+BT /F2 9.2 Tf 0.830 0.370 0.000 rg 1 0 0 1 412 597 Tm (business-saathi.vercel.app) Tj ET
+BT /F1 9.5 Tf 0.200 0.200 0.230 rg 1 0 0 1 48 584 Tm (Role: Built the full working prototype for rural micro-entrepreneurs and first-time business owners in India.) Tj ET
+BT /F1 9.2 Tf 0.200 0.200 0.230 rg 1 0 0 1 56 571 Tm (- Inputs: Location, Business idea, Margin money, Age, Gender.) Tj ET
+BT /F1 9.2 Tf 0.200 0.200 0.230 rg 1 0 0 1 56 559 Tm (- Engine: Hyper-local market intelligence, rule-based financial math, govt scheme matching, multilingual AI explanation.) Tj ET
+BT /F1 9.2 Tf 0.200 0.200 0.230 rg 1 0 0 1 56 547 Tm (- Outcomes: Clear feasibility analysis, estimated loan & EMI plan before borrowing; AI explains verified rule numbers.) Tj ET
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 527 Tm (AI AUTOMATIONS & CONTENT) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 522 m 547 522 l S
+BT /F2 10 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 509 Tm (AI News & Tools Digest) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 165 509 Tm (- Claude-based workflow delivering curated top AI news and new tools directly to Gmail.) Tj ET
+BT /F2 10 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 495 Tm (Daily Check-in to Telegram) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 182 495 Tm (- Form-to-Telegram bot pipeline routing daily check-in responses directly to Telegram.) Tj ET
+BT /F2 10 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 481 Tm (Everyday Workflows) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 150 481 Tm (- Claude connected with Gmail and Google Calendar for routine scheduling and task flows.) Tj ET
+BT /F2 10 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 467 Tm (AI Video Content) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 142 467 Tm (- Short-form videos edited entirely with AI tools and published on LinkedIn.) Tj ET
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 447 Tm (SKILLS & AI TOOLS) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 442 m 547 442 l S
+BT /F2 9.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 429 Tm (AI Automation:) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 142 429 Tm (Workflow automation, Claude integrations \(Gmail, Calendar\), Telegram bots, n8n \(learning\)) Tj ET
+BT /F2 9.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 416 Tm (AI Skills:) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 142 416 Tm (Prompt engineering, Generative AI, AI video editing, Finding practical AI use cases) Tj ET
+BT /F2 9.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 403 Tm (Programming & Learning:) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 168 403 Tm (Python \(foundations\), n8n, ML foundations) Tj ET
+BT /F2 9.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 390 Tm (Daily AI Stack:) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 142 390 Tm (Claude \(Automation\), ChatGPT \(Slides\), Perplexity \(Deep research\), NotebookLM \(Study\), Gemini, AnythingLLM) Tj ET
+BT /F2 9.5 Tf 0.080 0.080 0.100 rg 1 0 0 1 48 377 Tm (How I Work:) Tj ET
+BT /F1 9.3 Tf 0.200 0.200 0.230 rg 1 0 0 1 142 377 Tm (Problem solving, Fast tool adoption, Independent learning, Research) Tj ET
+BT /F2 10 Tf 0.830 0.370 0.000 rg 1 0 0 1 48 357 Tm (CERTIFICATES & PARTICIPATION) Tj ET
+0.5 w 0.900 0.900 0.920 RG 48 352 m 547 352 l S
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 339 Tm (- SkillQuest: Generative AI Literacy \(Assessment Passed\)) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 339 Tm (Simplilearn SkillUP  |  23 Oct 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 326 Tm (- Artificial Intelligence Beginners Guide) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 326 Tm (Simplilearn SkillUP  |  18 Oct 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 313 Tm (- Prompt Engineering with GitHub Copilot \(Microsoft-powered\)) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 313 Tm (Simplilearn SkillUP  |  8 Oct 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 300 Tm (- Introduction to Generative AI Studio \(Google Cloud-powered\)) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 300 Tm (Simplilearn SkillUP  |  7 Oct 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 287 Tm (- Career Guidance Session \(Participation\)) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 287 Tm (GradGuru Innovations  |  25 Sep 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 274 Tm (- Smart India Hackathon 2026 - Internal Campus Selection \(Team SPARK\)) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 274 Tm (MLVTEC Bhilwara  |  22 Sep 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 261 Tm (- Basics of AI: Learning Models) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 261 Tm (UniAthena & CIQ UK  |  5 Sep 2026) Tj ET
+BT /F2 9.2 Tf 0.120 0.120 0.140 rg 1 0 0 1 48 248 Tm (- Intro to Programming) Tj ET
+BT /F1 8.8 Tf 0.400 0.400 0.450 rg 1 0 0 1 388 248 Tm (Kaggle  |  26 Aug 2026) Tj ET
+BT /F1 8.2 Tf 0.450 0.450 0.500 rg 1 0 0 1 48 232 Tm (Note: Microsoft-powered and Google Cloud-powered courses on Simplilearn are course completions, not official certifications.) Tj ET
+0.5 w 0.880 0.880 0.900 RG 48 42 m 547 42 l S
+BT /F1 8.5 Tf 0.400 0.400 0.450 rg 1 0 0 1 48 28 Tm (Contact via LinkedIn: https://www.linkedin.com/in/harshit-chaplot-44479442b) Tj ET
+BT /F1 8.5 Tf 0.400 0.400 0.450 rg 1 0 0 1 460 28 Tm (Harshit Chaplot - 2026) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+7540
+%%EOF
